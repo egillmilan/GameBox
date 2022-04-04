@@ -1,5 +1,5 @@
 # GameBox
-Battery powered pocket device for playing games on. Based on the ATmega328P microcontroller from Atmel, same as is used in the Arduino Uno.
+Battery powered pocket device for playing games on. Based on the ATmega328P microcontroller from Atmel, same as is used in the Arduino Uno. Fits in a Hammond 1551k case.
 
 ![GameBox_v2_front](https://user-images.githubusercontent.com/47427510/161456697-2c6678dc-d577-4586-914a-9bc55e082bbf.png)
 ![GameBox_v2_back](https://user-images.githubusercontent.com/47427510/161456701-f98e25ce-7b27-40d7-96c4-89045c918867.png)
