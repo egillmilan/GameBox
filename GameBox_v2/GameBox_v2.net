@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\Egill\\Documents\\KiCad\\Projects\\GameBox\\GameBox_v2\\GameBox_v2.kicad_sch")
-    (date "27/04/2022 22:12:39")
+    (date "28/04/2022 10:53:38")
     (tool "Eeschema (6.0.0)")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -148,7 +148,7 @@
       (tstamps "5c986000-fc83-4495-a50f-9f4b94e485bc"))
     (comp (ref "SW5")
       (value "ON/OFF")
-      (footprint "GameBox:SS12D00")
+      (footprint "GameBox:EG1218")
       (datasheet "~")
       (libsource (lib "Switch") (part "SW_Push_SPDT") (description "Momentary Switch, single pole double throw"))
       (property (name "Sheetname") (value ""))

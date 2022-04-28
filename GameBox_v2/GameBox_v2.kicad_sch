@@ -1304,7 +1304,7 @@
     (property "Value" "ON/OFF" (id 1) (at 121.92 34.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "GameBox:SS12D00" (id 2) (at 123.19 35.56 0)
+    (property "Footprint" "GameBox:EG1218" (id 2) (at 123.19 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 123.19 35.56 0)
@@ -1330,8 +1330,8 @@
     (property "Datasheet" "" (id 3) (at 123.19 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 91748ac5-9eef-4952-b430-bd39e5f28417))
-    (pin "1" (uuid 91748ac5-9eef-4952-b430-bd39e5f28417))
+    (pin "1" (uuid 91748ac5-9eef-4952-b430-bd39e5f28418))
+    (pin "1" (uuid 91748ac5-9eef-4952-b430-bd39e5f28418))
     (pin "2" (uuid aff942dd-b435-4355-b025-3c09c611ea0d))
     (pin "3" (uuid d92cd37b-33f7-4802-83ac-486c34ecde1d))
   )
@@ -1883,7 +1883,7 @@
       (reference "SW4") (unit 1) (value "SW_right") (footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm")
     )
     (path "/15e1670d-9e79-4a5e-88ad-fbbb238a3e8a"
-      (reference "SW5") (unit 1) (value "ON/OFF") (footprint "GameBox:SS12D00")
+      (reference "SW5") (unit 1) (value "ON/OFF") (footprint "GameBox:EG1218")
     )
     (path "/82782dc2-cb84-4d0c-b85e-b3903aca1e13"
       (reference "U1") (unit 1) (value "ATmega328P-P") (footprint "Package_DIP:DIP-28_W7.62mm")
