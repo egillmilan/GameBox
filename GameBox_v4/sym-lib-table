@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "GameBox")(type "KiCad")(uri "${KIPRJMOD}/Libraries/GameBox.kicad_sym")(options "")(descr ""))
+)

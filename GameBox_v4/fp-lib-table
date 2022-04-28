@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "GameBox")(type "KiCad")(uri "${KIPRJMOD}/Libraries/GameBox.pretty")(options "")(descr ""))
+)
