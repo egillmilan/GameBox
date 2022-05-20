@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\Egill\\Documents\\KiCad\\Projects\\GameBox\\GameBox_v2\\GameBox_v2.kicad_sch")
-    (date "28/04/2022 10:53:38")
+    (date "20/05/2022 00:40:58")
     (tool "Eeschema (6.0.0)")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -354,7 +354,7 @@
       (node (ref "C3") (pin "1") (pintype "passive"))
       (node (ref "H1") (pin "1") (pinfunction "1") (pintype "input"))
       (node (ref "H2") (pin "1") (pinfunction "1") (pintype "input"))
-      (node (ref "J1") (pin "1") (pinfunction "Pin_1") (pintype "passive"))
+      (node (ref "J1") (pin "2") (pinfunction "Pin_2") (pintype "passive"))
       (node (ref "SW1") (pin "2") (pinfunction "2") (pintype "passive"))
       (node (ref "SW2") (pin "2") (pinfunction "2") (pintype "passive"))
       (node (ref "SW3") (pin "2") (pinfunction "2") (pintype "passive"))
@@ -398,7 +398,7 @@
       (node (ref "U1") (pin "27") (pinfunction "PC4") (pintype "bidirectional")))
     (net (code "12") (name "VCC")
       (node (ref "C1") (pin "1") (pintype "passive"))
-      (node (ref "J1") (pin "2") (pinfunction "Pin_2") (pintype "passive"))
+      (node (ref "J1") (pin "1") (pinfunction "Pin_1") (pintype "passive"))
       (node (ref "R1") (pin "1") (pintype "passive"))
       (node (ref "R2") (pin "1") (pintype "passive"))
       (node (ref "R3") (pin "1") (pintype "passive"))
